@@ -3,6 +3,8 @@ A simple, Python based pomodoro timer / productivity tool. Perfect for hard work
 
 ClaTime is a command-line Pomodoro timer application designed to enhance productivity through structured work-break cycles. Created by Joshua M Clatney (Clats97), this tool implements the Pomodoro Technique, a time management method that uses timed intervals of focused work followed by breaks.
 
+![clatime](https://github.com/user-attachments/assets/00e277ce-21be-432a-b942-d0e722f91001)
+
 **Features**
 
 **Structured Time Management: Implements the classic Pomodoro technique with:**
