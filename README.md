@@ -123,9 +123,7 @@ ClaTime is a command-line Pomodoro timer application designed to enhance product
 **Author**
 
 Joshua M Clatney (Clats97)
+
 Ethical Pentesting Enthusiast
 
-Released under the Apache 2.0 License. This project is open source. Modify it, improve it, share it, use it, or whatever!
-
-*Copyright 2025 Joshua M Clatney (Clats97)*
-
+Copyright 2025 Joshua M Clatney (Clats97)
